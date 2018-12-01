@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AFComps_Example' do
+  pod 'AFComps', :path => '../'
+
+  target 'AFComps_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
