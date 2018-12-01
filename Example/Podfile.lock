@@ -1,0 +1,16 @@
+PODS:
+  - AFComps (0.1.0)
+
+DEPENDENCIES:
+  - AFComps (from `../`)
+
+EXTERNAL SOURCES:
+  AFComps:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AFComps: 395fc29eacd07ebc45abd3eb8f08e5f9a1df67cb
+
+PODFILE CHECKSUM: 5a9a504fe575e20a032af279b0264e87b1cb321c
+
+COCOAPODS: 1.6.0.beta.2

@@ -1,0 +1,6 @@
+framework module AFComps {
+  umbrella header "AFComps-umbrella.h"
+
+  export *
+  module * { export * }
+}

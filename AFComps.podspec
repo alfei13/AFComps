@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'AFComps'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of AFComps.'
+  s.summary          = 'descAFComps.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,9 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = "我么事大连房间啊发了疯安龙飞阿里东方路阿飞的酸辣粉安龙飞阿里发发 达力芬adfl adffa fd"
 
   s.homepage         = 'https://github.com/alfei13/AFComps'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
